@@ -1,9 +1,0 @@
-# IPython log file
-
-pwd
-#[Out]# u'/Users/mayimeng'
-cd dropbox/github/
-pwd
-#[Out]# u'/Users/mayimeng/Dropbox/github'
-%run exercise2.py
-%run exercise2.py
